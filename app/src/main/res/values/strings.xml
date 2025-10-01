@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Voice</string>
+    <string
+        name="emergency_number">3456435</string>
+    <string name="speak">Speak Now</string>
+</resources>
